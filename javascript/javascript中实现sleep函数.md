@@ -25,3 +25,7 @@ async function sleep(time) {
 
 sleep(3000);
 ```
+
+◆ 扩展阅读
+* [javascript如何能简短优雅地实现sleep函数](https://www.zhihu.com/question/31636244)
+* [What is the JavaScript version of sleep()?]()
