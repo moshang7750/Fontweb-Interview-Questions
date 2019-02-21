@@ -1,8 +1,8 @@
 
 ```
 function sleep(time) {
-  const now = Date.now
-  const before = now()
+  var now = Date.now
+  var before = now()
   while (now() - before < time) {}
 }
 
